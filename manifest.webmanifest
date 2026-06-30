@@ -4,7 +4,7 @@
   "lang": "es",
   "dir": "ltr",
   "description": "Present & preterite conjugation drill — 50 verbs, Mexican (LatAm) Spanish.",
-  "start_url": "./spanish_conjugation_quiz.html",
+  "start_url": "./spanish-conjugation-quiz.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
